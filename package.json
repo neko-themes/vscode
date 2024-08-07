@@ -1,0 +1,56 @@
+{
+  "name": "neko-vs-theme",
+  "displayName": "NekoVsTheme",
+  "description": "✨A minimalist theme that doesn't tire your eyes for vscode.✨",
+  "version": "0.0.9",
+  "publisher": "BrunoCiccarino",
+  "icon": "img/icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoCiccarino/NekoVsTheme.git"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "NekoVsTheme",
+    "Neko",
+    "Shades of Purple",
+    "Dark Theme",
+    "VSCode Power User",
+    "Shade of Purple",
+    "Cobalt"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NekoVsTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NekoVsTheme-color-theme.json"
+      }, 
+      {
+        "label": "NekoVsPurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nekoVsPurple.json"
+      },
+      {
+        "label": "NekoVsMinimalDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NekoVsMinimalDark.json"
+      },
+      {
+        "label": "NekoVsBlueMoon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NekoVsBlueMoon.json"
+      },
+      {
+        "label": "NekoVsDracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NekoVsDracula.json"
+      }
+    ]
+  }
+}
