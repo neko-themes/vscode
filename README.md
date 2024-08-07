@@ -1,8 +1,8 @@
-# NekoVsTheme 🚀 [![GitHub stars](https://img.shields.io/github/stars/BrunoCiccarino/NekoVsTheme.svg?style=social&label=Stars)](https://github.com/BrunoCiccarino/NekoVsTheme/stargazers) [![GitHub followers](https://img.shields.io/github/followers/BrunoCiccarino?label=Follow&style=social)](https://github.com/BrunoCiccarino)
+# NekoVsTheme 🚀 [![GitHub stars](https://img.shields.io/github/stars/neko-themes/NekoVsTheme.svg?style=social&label=Stars)](https://github.com/neko-themes/NekoVsTheme/stargazers) [![GitHub followers](https://img.shields.io/github/followers/BrunoCiccarino?label=Follow&style=social)](https://github.com/BrunoCiccarino)
 
 A minimalist theme with strong colors made by me especially for you.
 
-<img src="./img/icon.jpg">
+<img src="./img/image.jpg">
 
 
 NekoVsTheme offers multiple theme options, from the simplest to the most flashy, always editing themes and bringing new themes so that you never get bored with our themes. 

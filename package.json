@@ -2,7 +2,7 @@
   "name": "neko-vs-theme",
   "displayName": "NekoVsTheme",
   "description": "✨A minimalist theme that doesn't tire your eyes for vscode.✨",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "publisher": "BrunoCiccarino",
   "icon": "img/icon.jpg",
   "repository": {
