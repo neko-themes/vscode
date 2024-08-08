@@ -2,12 +2,12 @@
   "name": "neko-vs-theme",
   "displayName": "NekoVsTheme",
   "description": "✨A minimalist theme that doesn't tire your eyes for vscode.✨",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "BrunoCiccarino",
-  "icon": "img/icon.jpg",
+  "icon": "img/image.jpg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrunoCiccarino/NekoVsTheme.git"
+    "url": "https://github.com/neko-themes/NekoVsTheme.git"
   },
   "engines": {
     "vscode": "^1.92.0"
@@ -50,6 +50,11 @@
         "label": "NekoVsDracula",
         "uiTheme": "vs-dark",
         "path": "./themes/NekoVsDracula.json"
+      },
+      {
+        "label": "NekoVsGithub",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NekoVsGithub.json"
       }
     ]
   }
